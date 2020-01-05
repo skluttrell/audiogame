@@ -1,0 +1,11 @@
+﻿# Menu sound variables
+MENU_POP_UP = 'menu\\sounds\\mPop.wav'
+MENU_TYPING = 'menu\\sounds\\mTyping.wav'
+MENU_CHANGE_ITEM = 'menu\\sounds\\mChange.wav'
+MENU_TAB = 'menu\\sounds\\mTab.wav'
+MENU_ROLLBACK = 'menu\\sounds\\mRoll.wav'
+MENU_BACK = 'menu\\sounds\\mBack.wav'
+MENU_FORWARD = 'menu\\sounds\\mForward.wav'
+MENU_SELECT = 'menu\\sounds\\mSelect.wav'
+MENU_ALERT = 'menu\\sounds\\mAlert.wav'
+MENU_CANCEL = 'menu\\sounds\\mCancel.wav'
